@@ -1,0 +1,50 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+logs/
+*.log.*
+pids/
+*.pid
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+
+# Environment variables
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# Test coverage
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# npm package lock
+package-lock.json
+
+# Yarn lock
+yarn.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+*.DS_Store
+*.directory
+
+# Temporary files
+*.tmp
+*.temp
+
+# Optional: add any other files or directories specific to your project that you do not want to track
